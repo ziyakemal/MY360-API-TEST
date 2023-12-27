@@ -1,0 +1,9 @@
+{
+  "Result" : {
+    "Appointment" : [ ],
+    "AppointmentNote" : "",
+    "AppointmentRuleControl" : "",
+    "IsAvailable" : true,
+    "OpenFormPopUp" : false
+  }
+}
