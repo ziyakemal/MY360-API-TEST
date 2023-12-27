@@ -1,0 +1,6 @@
+{
+  "type" : "https://tools.ietf.org/html/rfc7231#section-6.6.1",
+  "title" : "An error occured while processing your request.",
+  "status" : 500,
+  "traceId" : "|346e2a25-4b291ed141ea3a07.1.c610a3ea_"
+}

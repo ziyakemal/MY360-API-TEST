@@ -1,0 +1,21 @@
+{
+  "Result" : [ {
+    "DoctorName" : "DATUK DR MOHD NOOR AWANG  (ORAL & MAXILLOFACIAL SURGERY)",
+    "DoctorCode" : "DMOHDNOO",
+    "MedicalServiceCode" : "80",
+    "Photo" : "https://www.acibadem.com.tr/doktor-image/DMOHDNOO",
+    "PersStatus" : null
+  }, {
+    "DoctorName" : "DR AWANGKU BAKHRUNNUDDIN  (INTERNAL MEDICINE)",
+    "DoctorCode" : "DAWK",
+    "MedicalServiceCode" : "51",
+    "Photo" : "https://www.acibadem.com.tr/doktor-image/DAWK",
+    "PersStatus" : null
+  }, {
+    "DoctorName" : "DR AWANGKU BAKHRUNNUDDIN  (CARDIOLOGY)",
+    "DoctorCode" : "DAWK",
+    "MedicalServiceCode" : "52",
+    "Photo" : "https://www.acibadem.com.tr/doktor-image/DAWK",
+    "PersStatus" : null
+  } ]
+}

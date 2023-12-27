@@ -1,0 +1,18 @@
+{
+  "Result" : [ {
+    "MeasurementId" : "736B4177615275535032472F79695A67456D796770413D3D",
+    "PersonId" : "723067427A56556C36365A547848662F51754A705A673D3D",
+    "MeasurementTypeName" : "LDL-Cholesterol",
+    "ResultValue" : "100",
+    "RefMin" : "",
+    "RefMax" : "",
+    "MeasurementTypeId" : 25,
+    "StatusId" : 2,
+    "UnitName" : "mmol/L",
+    "CreateDate" : "2023-11-30T12:00:00",
+    "CreateDateText" : "30.11.2023 12:00",
+    "MeasurementChannel" : 2,
+    "IsVital" : false,
+    "IsTension" : false
+  } ]
+}

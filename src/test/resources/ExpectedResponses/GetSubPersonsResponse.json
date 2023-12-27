@@ -1,0 +1,33 @@
+{
+  "Result" : [ {
+    "Id" : 0,
+    "PersonDegreeProximity" : {
+      "Id" : 0,
+      "ProximityName" : null
+    },
+    "SubPerson" : {
+      "PersonId" : "723067427A56556C36365A547848662F51754A705A673D3D",
+      "Firstname" : "API Test",
+      "Lastname" : null,
+      "BirthDate" : "2000-05-17T00:00:00",
+      "BirthDateText" : "17.05.2000",
+      "Email" : "m360apitest@acibadem.com",
+      "Gender" : 1,
+      "PhonePrefix" : "+60",
+      "PhoneNumber" : "53732785",
+      "ActivationState" : 3,
+      "Nationality" : 1,
+      "PatientId" : "2B70344345466E39665534794C35673351356F4C4F513D3D",
+      "BsnNumber" : "12387657867",
+      "PhotoBase64" : "",
+      "PhotoMimeType" : null,
+      "PhotoContentType" : null,
+      "Age" : 23,
+      "Badge" : 0,
+      "IsCanSelfLogin" : true,
+      "IsPasswordRequired" : false,
+      "IsCardStatusApproved" : false,
+      "IsInsuranceCardStatusApproved" : false
+    }
+  } ]
+}

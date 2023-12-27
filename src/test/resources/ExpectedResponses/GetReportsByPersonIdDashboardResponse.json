@@ -1,0 +1,24 @@
+{
+  "Success" : false,
+  "Result" : [ {
+    "ReportId" : "5cbc7e54-8e71-4d00-a110-9a4c35b54382",
+    "ReportDate" : "30/11/2023 00:00",
+    "ReportTypeName" : "Anesthesiology Report",
+    "ReportTypeId" : 109,
+    "ApproveDoctor" : "MOHD NOOR AWANG",
+    "ApproveDoctorId" : null,
+    "HospitalId" : null,
+    "HospitalName" : "PANTAI HOSPITAL KUALA LUMPUR",
+    "ReportNote" : null,
+    "WriterDoctor" : null,
+    "WriterDoctorId" : null,
+    "Status" : "T",
+    "ReportFileName" : "Test Deneme.docx",
+    "CreateDate" : "2023-11-30T16:29:56",
+    "PersonId" : "723067427A56556C36365A547848662F51754A705A673D3D",
+    "ReportChannel" : 2,
+    "Link" : null,
+    "ReportLastUpdateDate" : "01/01/0001 00:00"
+  } ],
+  "ResultText" : null
+}

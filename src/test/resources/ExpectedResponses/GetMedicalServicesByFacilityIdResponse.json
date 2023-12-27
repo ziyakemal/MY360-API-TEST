@@ -1,0 +1,165 @@
+{
+  "Result" : [ {
+    "MedicalServiceName" : "ANAESTHESIOLOGY AND CRITICAL CARE",
+    "MedicalServiceId" : "01"
+  }, {
+    "MedicalServiceName" : "BREAST & ENDOCRINE SURGERY",
+    "MedicalServiceId" : "36"
+  }, {
+    "MedicalServiceName" : "CARDIOLOGY",
+    "MedicalServiceId" : "52"
+  }, {
+    "MedicalServiceName" : "CARDIOTHORACIC SURGERY",
+    "MedicalServiceId" : "42"
+  }, {
+    "MedicalServiceName" : "CHILD AND ADOLESCENT PSYCHIATRY",
+    "MedicalServiceId" : "29"
+  }, {
+    "MedicalServiceName" : "CLINICAL HAEMATOLOGY",
+    "MedicalServiceId" : "53"
+  }, {
+    "MedicalServiceName" : "CLINICAL ONCOLOGY",
+    "MedicalServiceId" : "72"
+  }, {
+    "MedicalServiceName" : "CLINICAL RADIOLOGY",
+    "MedicalServiceId" : "32"
+  }, {
+    "MedicalServiceName" : "COLORECTAL SURGERY",
+    "MedicalServiceId" : "37"
+  }, {
+    "MedicalServiceName" : "DENTAL SURGEON",
+    "MedicalServiceId" : "96"
+  }, {
+    "MedicalServiceName" : "DERMATOLOGY",
+    "MedicalServiceId" : "55"
+  }, {
+    "MedicalServiceName" : "ENDOCRINOLOGY",
+    "MedicalServiceId" : "57"
+  }, {
+    "MedicalServiceName" : "GASTROENTEROLOGY & HEPATOLOGY",
+    "MedicalServiceId" : "58"
+  }, {
+    "MedicalServiceName" : "GENERAL DENTISTRY",
+    "MedicalServiceId" : "92"
+  }, {
+    "MedicalServiceName" : "GENERAL PAEDIATRICS",
+    "MedicalServiceId" : "03"
+  }, {
+    "MedicalServiceName" : "GENERAL SURGERY",
+    "MedicalServiceId" : "35"
+  }, {
+    "MedicalServiceName" : "GERIATRIC MEDICINE",
+    "MedicalServiceId" : "59"
+  }, {
+    "MedicalServiceName" : "HEPATOBILIARY SURGERY",
+    "MedicalServiceId" : "38"
+  }, {
+    "MedicalServiceName" : "INFECTIOUS DISEASES",
+    "MedicalServiceId" : "60"
+  }, {
+    "MedicalServiceName" : "INTENSIVE CARE (ANAESTHESIOLOGY)",
+    "MedicalServiceId" : "43"
+  }, {
+    "MedicalServiceName" : "INTERNAL MEDICINE",
+    "MedicalServiceId" : "51"
+  }, {
+    "MedicalServiceName" : "INTERVENTIONAL RADIOLOGY",
+    "MedicalServiceId" : "91"
+  }, {
+    "MedicalServiceName" : "MEDICAL OFFICER",
+    "MedicalServiceId" : "93"
+  }, {
+    "MedicalServiceName" : "MEDICAL ONCOLOGY",
+    "MedicalServiceId" : "62"
+  }, {
+    "MedicalServiceName" : "NEONATOLOGY",
+    "MedicalServiceId" : "07"
+  }, {
+    "MedicalServiceName" : "NEPHROLOGY",
+    "MedicalServiceId" : "63"
+  }, {
+    "MedicalServiceName" : "NEUROLOGY",
+    "MedicalServiceId" : "64"
+  }, {
+    "MedicalServiceName" : "NEUROSURGERY",
+    "MedicalServiceId" : "45"
+  }, {
+    "MedicalServiceName" : "OBSTETRICS AND GYNAECOLOGY",
+    "MedicalServiceId" : "69"
+  }, {
+    "MedicalServiceName" : "OPHTHALMOLOGY",
+    "MedicalServiceId" : "74"
+  }, {
+    "MedicalServiceName" : "ORAL & MAXILLOFACIAL SURGERY",
+    "MedicalServiceId" : "80"
+  }, {
+    "MedicalServiceName" : "ORTHODONTICS",
+    "MedicalServiceId" : "82"
+  }, {
+    "MedicalServiceName" : "ORTHOPAEDIC SURGERY",
+    "MedicalServiceId" : "75"
+  }, {
+    "MedicalServiceName" : "OTHER SPECIALITIES",
+    "MedicalServiceId" : "88"
+  }, {
+    "MedicalServiceName" : "OTORHINOLARYNGOLOGY(ENT)",
+    "MedicalServiceId" : "02"
+  }, {
+    "MedicalServiceName" : "PAEDIATRIC CARDIOLOGY",
+    "MedicalServiceId" : "09"
+  }, {
+    "MedicalServiceName" : "PAEDIATRIC GASTROENTEROLOGY",
+    "MedicalServiceId" : "12"
+  }, {
+    "MedicalServiceName" : "PAEDIATRIC SURGERY",
+    "MedicalServiceId" : "46"
+  }, {
+    "MedicalServiceName" : "PALLIATIVE MEDICINE",
+    "MedicalServiceId" : "67"
+  }, {
+    "MedicalServiceName" : "PLASTIC SURGERY",
+    "MedicalServiceId" : "47"
+  }, {
+    "MedicalServiceName" : "PSYCHIATRY",
+    "MedicalServiceId" : "28"
+  }, {
+    "MedicalServiceName" : "PSYCHOLOGY",
+    "MedicalServiceId" : "95"
+  }, {
+    "MedicalServiceName" : "RADIATION ONCOLOGY",
+    "MedicalServiceId" : "73"
+  }, {
+    "MedicalServiceName" : "REHABILITATION MEDICINE",
+    "MedicalServiceId" : "33"
+  }, {
+    "MedicalServiceName" : "REPRODUCTIVE MEDICINE",
+    "MedicalServiceId" : "54"
+  }, {
+    "MedicalServiceName" : "RESPIRATORY MEDICINE",
+    "MedicalServiceId" : "65"
+  }, {
+    "MedicalServiceName" : "RHEUMATOLOGY",
+    "MedicalServiceId" : "66"
+  }, {
+    "MedicalServiceName" : "SPINE SURGERY",
+    "MedicalServiceId" : "76"
+  }, {
+    "MedicalServiceName" : "SPORTS MEDICINE",
+    "MedicalServiceId" : "34"
+  }, {
+    "MedicalServiceName" : "THORACIC SURGERY",
+    "MedicalServiceId" : "39"
+  }, {
+    "MedicalServiceName" : "UPPER GI SURGERY",
+    "MedicalServiceId" : "40"
+  }, {
+    "MedicalServiceName" : "UPPER LIMB AND MICROSURGERY",
+    "MedicalServiceId" : "78"
+  }, {
+    "MedicalServiceName" : "UROLOGY",
+    "MedicalServiceId" : "48"
+  }, {
+    "MedicalServiceName" : "VASCULAR SURGERY",
+    "MedicalServiceId" : "41"
+  } ]
+}

@@ -1,0 +1,84 @@
+{
+  "Result" : [ {
+    "MedicalServiceName" : "ANAESTHESIOLOGY AND CRITICAL CARE",
+    "MedicalServiceId" : "01"
+  }, {
+    "MedicalServiceName" : "CARDIOLOGY",
+    "MedicalServiceId" : "52"
+  }, {
+    "MedicalServiceName" : "CLINICAL ONCOLOGY",
+    "MedicalServiceId" : "72"
+  }, {
+    "MedicalServiceName" : "ENDOCRINOLOGY",
+    "MedicalServiceId" : "57"
+  }, {
+    "MedicalServiceName" : "GASTROENTEROLOGY & HEPATOLOGY",
+    "MedicalServiceId" : "58"
+  }, {
+    "MedicalServiceName" : "GENERAL PAEDIATRICS",
+    "MedicalServiceId" : "03"
+  }, {
+    "MedicalServiceName" : "GENERAL SURGERY",
+    "MedicalServiceId" : "35"
+  }, {
+    "MedicalServiceName" : "GERIATRIC MEDICINE",
+    "MedicalServiceId" : "59"
+  }, {
+    "MedicalServiceName" : "INTERNAL MEDICINE",
+    "MedicalServiceId" : "51"
+  }, {
+    "MedicalServiceName" : "MEDICAL OFFICER",
+    "MedicalServiceId" : "93"
+  }, {
+    "MedicalServiceName" : "NEPHROLOGY",
+    "MedicalServiceId" : "63"
+  }, {
+    "MedicalServiceName" : "NEUROLOGY",
+    "MedicalServiceId" : "64"
+  }, {
+    "MedicalServiceName" : "NEUROSURGERY",
+    "MedicalServiceId" : "45"
+  }, {
+    "MedicalServiceName" : "OBSTETRICS AND GYNAECOLOGY",
+    "MedicalServiceId" : "69"
+  }, {
+    "MedicalServiceName" : "OPHTHALMOLOGY",
+    "MedicalServiceId" : "74"
+  }, {
+    "MedicalServiceName" : "ORAL & MAXILLOFACIAL SURGERY",
+    "MedicalServiceId" : "80"
+  }, {
+    "MedicalServiceName" : "ORTHOPAEDIC SURGERY",
+    "MedicalServiceId" : "75"
+  }, {
+    "MedicalServiceName" : "OTORHINOLARYNGOLOGY(ENT)",
+    "MedicalServiceId" : "02"
+  }, {
+    "MedicalServiceName" : "PAEDIATRIC SURGERY",
+    "MedicalServiceId" : "46"
+  }, {
+    "MedicalServiceName" : "PALLIATIVE MEDICINE",
+    "MedicalServiceId" : "67"
+  }, {
+    "MedicalServiceName" : "PSYCHIATRY",
+    "MedicalServiceId" : "28"
+  }, {
+    "MedicalServiceName" : "PSYCHOLOGY",
+    "MedicalServiceId" : "95"
+  }, {
+    "MedicalServiceName" : "RESPIRATORY MEDICINE",
+    "MedicalServiceId" : "65"
+  }, {
+    "MedicalServiceName" : "RHEUMATOLOGY",
+    "MedicalServiceId" : "66"
+  }, {
+    "MedicalServiceName" : "UPPER LIMB AND MICROSURGERY",
+    "MedicalServiceId" : "78"
+  }, {
+    "MedicalServiceName" : "UROLOGY",
+    "MedicalServiceId" : "48"
+  }, {
+    "MedicalServiceName" : "VASCULAR SURGERY",
+    "MedicalServiceId" : "41"
+  } ]
+}
