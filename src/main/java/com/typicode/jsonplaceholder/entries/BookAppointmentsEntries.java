@@ -15,6 +15,10 @@ public class BookAppointmentsEntries {
     public static final String GetDoctorDetail33 = "/PatientOnline.Gateway.Api/api/appointment/GetDoctorDetail";
     public static final String GetDoctorReportsByPersonId = "/PatientOnline.Gateway.Api/api/report/GetDoctorReportsByPersonId";
     public static final String GetCalendar10 = "/PatientOnline.Gateway.Api/api/person/GetCalendar";
+    public static final String InsertAppointment = "/PatientOnline.Gateway.Api/api/appointment/InsertAppointment";
+    public static final String GetFacilitiesWithMapping = "/PatientOnline.Gateway.Api/api/appointment/GetFacilitiesWithMapping";
+    public static final String GetPatientAppointments = "/PatientOnline.Gateway.Api/api/Appointment/GetPatientAppointments";
+    public static final String GetPatientDoctors = "/PatientOnline.Gateway.Api/api/appointment/GetPatientDoctors";
     public static final Map<String, String> params = new HashMap<>();
 
     public static final Map<String, String> endpoints = Map.ofEntries(
@@ -28,7 +32,11 @@ public class BookAppointmentsEntries {
             Map.entry("GetDoctorSlotWithControl", GetDoctorSlotWithControl),
             Map.entry("GetDoctorDetail33", GetDoctorDetail33),
             Map.entry("GetDoctorReportsByPersonId", GetDoctorReportsByPersonId),
-            Map.entry("GetCalendar10", GetCalendar10)
+            Map.entry("GetCalendar10", GetCalendar10),
+            Map.entry("InsertAppointment", InsertAppointment),
+            Map.entry("GetFacilitiesWithMapping", GetFacilitiesWithMapping),
+            Map.entry("GetPatientAppointmentsDrCode", GetPatientAppointments),
+            Map.entry("GetPatientDoctors", GetPatientDoctors)
     );
 
     public static Map<String, String> queryParamString(String endpoint) {

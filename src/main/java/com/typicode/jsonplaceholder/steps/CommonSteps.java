@@ -57,6 +57,7 @@ public class CommonSteps {
         //String filename = SCHEMAS_DIR + type.replaceAll(" ", "") + "Schema.json";
         switch (pageEntry) {
             case "LoginEntries":
+            case "BookAppointmentsEntries":
                 folderName = pageEntry.replace("Entries", "").trim();
                 break;
         }

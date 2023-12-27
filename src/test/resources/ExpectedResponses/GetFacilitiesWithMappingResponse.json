@@ -1,0 +1,15 @@
+{
+  "Result" : [ {
+    "Type" : "0",
+    "FacilityId" : "33",
+    "FacilityName" : "PANTAI HOSPITAL KUALA LUMPUR",
+    "Selected" : "1",
+    "Address" : " 8, Jalan Bukit Pantai, 59100 Kuala Lumpur, Malaysia",
+    "Latitude" : "3.1198704344033055",
+    "Longidute" : "101.666680353876",
+    "LocationUrl" : "https://g.page/pantaihospitalkl",
+    "Phone" : "+60322960888",
+    "Email" : "my.phkl.enquiries@pantai.com.my",
+    "ImgUrl" : "https://myhealth360.com.my/Aggreements/pkllogo.jpg"
+  } ]
+}
