@@ -12,6 +12,7 @@ public class BookAppointmentsEntries {
     public static final String GetMedicalServicesByFacilityId33 = "/PatientOnline.Gateway.Api/api/appointment/GetMedicalServicesByFacilityId";
     public static final String GetDoctorsByFacilityIdAndMedicalServiceId33 = "/PatientOnline.Gateway.Api/api/appointment/GetDoctorsByFacilityIdAndMedicalServiceId";
     public static final String GetDoctorSlotWithControl = "/PatientOnline.Gateway.Api/api/appointment/GetDoctorSlotWithControl";
+    public static final String GetDoctorDetail33 = "/PatientOnline.Gateway.Api/api/appointment/GetDoctorDetail";
     public static final Map<String, String> params = new HashMap<>();
 
     public static final Map<String, String> endpoints = Map.ofEntries(
@@ -22,7 +23,8 @@ public class BookAppointmentsEntries {
             Map.entry("GetDoctorDetail", GetDoctorDetail),
             Map.entry("GetMedicalServicesByFacilityId33", GetMedicalServicesByFacilityId33),
             Map.entry("GetDoctorsByFacilityIdAndMedicalServiceId33", GetDoctorsByFacilityIdAndMedicalServiceId33),
-            Map.entry("GetDoctorSlotWithControl", GetDoctorSlotWithControl)
+            Map.entry("GetDoctorSlotWithControl", GetDoctorSlotWithControl),
+            Map.entry("GetDoctorDetail33", GetDoctorDetail33)
     );
 
     public static Map<String, String> queryParamString(String endpoint) {
